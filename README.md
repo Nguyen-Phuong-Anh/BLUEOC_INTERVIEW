@@ -1,0 +1,1 @@
+This is answers for the BLUEOC company's entrance test
